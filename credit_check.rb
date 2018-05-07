@@ -11,6 +11,8 @@ def cc_check(card_number)
   summed = revarray.at(1, 2) * 2
 puts summed
 
+  #I got stuck trying to get the everyother position in the array to double.  I scoured ruby docs and looked up other people's
+  #projects working on this algorithmn in Ruby and could not make heads or tales of how their code managed to this.
 
 
 end
